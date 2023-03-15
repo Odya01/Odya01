@@ -10,13 +10,9 @@
 <div align = "center">
 <h2 align="center">Projects link</h2>
 
-1)[cars-app](https://odya01.github.io/cars-app/)
+[cars-app](https://odya01.github.io/cars-app/) [Evclid-website](https://odya01.github.io/evclid-website/)
 
-2)[Evclid-website](https://odya01.github.io/evclid-website/)
-
-3)[hotel-website](https://odya01.github.io/hotel-website/)
-
-4)[signal-website](https://odya01.github.io/signal-website/)
+[hotel-website](https://odya01.github.io/hotel-website/) [signal-website](https://odya01.github.io/signal-website/)
 
 5)Front-mentor-solutions:
  <br>
