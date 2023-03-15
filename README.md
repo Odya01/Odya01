@@ -7,24 +7,23 @@
 - 👯 I’m looking to collaborate on idk
 
 
-<br>
+<div align = "center">
 <h2 align="center">Projects link</h2>
 
 1)[cars-app](https://odya01.github.io/cars-app/)
 
-2)(Evclid-website](https://odya01.github.io/evclid-website/)
+2)[Evclid-website](https://odya01.github.io/evclid-website/)
 
- <br>
-3)hotel-website - https://odya01.github.io/hotel-website/
- <br>
-4)signal-website - https://odya01.github.io/signal-website/
- <br>
+3)[hotel-website](https://odya01.github.io/hotel-website/)
+
+4)[signal-website](https://odya01.github.io/signal-website/)
+
 5)Front-mentor-solutions:
  <br>
-Product card component - https://odya01.github.io/front-mentor-solutions/product-card/&nbsp;
+[Product card component](https://odya01.github.io/front-mentor-solutions/product-card/)
  <br>
-3-column card component - https://odya01.github.io/front-mentor-solutions/3-column-card/
-<br>
+[3-column card component](https://odya01.github.io/front-mentor-solutions/3-column-card/)
+<div>
 
 
 <br>
