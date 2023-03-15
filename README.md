@@ -1,4 +1,4 @@
-<h1 align="center">Hi there I'm Yura👋</h1>
+<h1 align="center">Hi there, I'm Yura👋</h1>
 
 - 🔭 I’m currently doing assignments from the intervolga school
 - 🌱 I’m currently learning JS
@@ -8,7 +8,7 @@
 
 
 <br>
-1)cars-app - ![link](https://odya01.github.io/cars-app/)
+1)cars-app - [link](https://odya01.github.io/cars-app/)
 <br>
 2)Evclid-website - https://odya01.github.io/evclid-website/
  <br>
