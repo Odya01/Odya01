@@ -6,10 +6,11 @@
 - 📫 How to reach me TG: @Odya01
 - 👯 I’m looking to collaborate on idk
 <br>
-1)[cars-app](https://odya01.github.io/cars-app/) <br>
-2)[Evclid-website](https://odya01.github.io/evclid-website/) <br>
-3)[hotel-website](https://odya01.github.io/hotel-website/) <br>
-4)[signal-website](https://odya01.github.io/signal-website/) <br>
+1)[cars-app](https://odya01.github.io/cars-app/)
+<br>
+2)[Evclid-website](https://odya01.github.io/evclid-website/)
+3)[hotel-website](https://odya01.github.io/hotel-website/)
+4)[signal-website](https://odya01.github.io/signal-website/)
 5)Front-mentor-solutions:
 Product card component [Link](https://odya01.github.io/front-mentor-solutions/product-card/)
 3-column card component [Link](https://odya01.github.io/front-mentor-solutions/3-column-card/)
