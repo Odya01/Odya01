@@ -12,7 +12,7 @@
 
 1)[cars-app](https://odya01.github.io/cars-app/)
 
-2)(Evclid-website](https://odya01.github.io/evclid-website/]
+2)(Evclid-website](https://odya01.github.io/evclid-website/)
 
  <br>
 3)hotel-website - https://odya01.github.io/hotel-website/
