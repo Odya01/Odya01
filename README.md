@@ -54,8 +54,8 @@ Front-mentor-solutions:
 
 <div align = "center">
 
-![Stats Overview](https://raw.githubusercontent.com/MelvinAguilar/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![Most Used Languages](https://raw.githubusercontent.com/MelvinAguilar/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![Stats Overview](https://raw.githubusercontent.com/Odya01/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![Most Used Languages](https://raw.githubusercontent.com/Odya01/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 </div>
 <br>
