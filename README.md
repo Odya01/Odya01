@@ -6,7 +6,8 @@
 - 📫 How to reach me TG: @Odya01
 - 👯 I’m looking to collaborate on idk
 
-<div>
+
+<br>
 1)cars-app - ![link](https://odya01.github.io/cars-app/)
 <br>
 2)Evclid-website - https://odya01.github.io/evclid-website/
@@ -20,9 +21,21 @@
 Product card component - https://odya01.github.io/front-mentor-solutions/product-card/&nbsp;
  <br>
 3-column card component - https://odya01.github.io/front-mentor-solutions/3-column-card/
+<br>
+
+
+<br>
+<h2 align="center">📊 Github Stats</h2>
+
+<div align = "center">
+
+![Stats Overview](https://raw.githubusercontent.com/MelvinAguilar/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![Most Used Languages](https://raw.githubusercontent.com/MelvinAguilar/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+
 </div>
+<br>
 
-
+<div align = "center">
 <details open>
 <summary><b>🏄‍♂️ Frontend</b></summary>
 <br>
@@ -31,3 +44,5 @@ Product card component - https://odya01.github.io/front-mentor-solutions/product
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)&nbsp;
 ![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 </details>
+ 
+</div>
