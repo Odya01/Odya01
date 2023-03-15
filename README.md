@@ -9,10 +9,11 @@
 
 <br>
 
-1)cars-app - [link](https://odya01.github.io/cars-app/)
+1)[cars-app](https://odya01.github.io/cars-app/)
 
 <br>
-2)Evclid-website - https://odya01.github.io/evclid-website/
+2)(Evclid-website](https://odya01.github.io/evclid-website/]
+
  <br>
 3)hotel-website - https://odya01.github.io/hotel-website/
  <br>
