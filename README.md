@@ -26,6 +26,8 @@ Product card component - https://odya01.github.io/front-mentor-solutions/product
 
 <br>
 <div align = "center">
+<h2 align="center">🛠️ Languages and Tools</h2>
+ 
 <details open>
 <summary><b>🏄‍♂️ Frontend</b></summary>
 <br>
