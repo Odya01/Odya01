@@ -8,10 +8,10 @@
 
 
 <br>
+<h2 align="center">Projects link</h2>
 
 1)[cars-app](https://odya01.github.io/cars-app/)
 
-<br>
 2)(Evclid-website](https://odya01.github.io/evclid-website/]
 
  <br>
