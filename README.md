@@ -23,6 +23,8 @@ Product card component - https://odya01.github.io/front-mentor-solutions/product
 3-column card component - https://odya01.github.io/front-mentor-solutions/3-column-card/
 <br>
 
+
+<br>
 <div align = "center">
 <details open>
 <summary><b>🏄‍♂️ Frontend</b></summary>
@@ -34,6 +36,8 @@ Product card component - https://odya01.github.io/front-mentor-solutions/product
 </details>
  
 </div>
+<br>
+
 
 <br>
 <h2 align="center">📊 Github Stats</h2>
