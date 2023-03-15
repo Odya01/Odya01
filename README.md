@@ -49,14 +49,3 @@ Front-mentor-solutions:
 <br>
 
 
-<br>
-<h2 align="center">📊 Github Stats</h2>
-
-<div align = "center">
-
-![Stats Overview](https://raw.githubusercontent.com/Odya01/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![Most Used Languages](https://raw.githubusercontent.com/Odya01/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-
-</div>
-<br>
-
