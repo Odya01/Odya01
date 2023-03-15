@@ -14,7 +14,7 @@
 
 [hotel-website](https://odya01.github.io/hotel-website/)  ---  [signal-website](https://odya01.github.io/signal-website/)
 
-5)Front-mentor-solutions:
+Front-mentor-solutions:
  <br>
 [Product card component](https://odya01.github.io/front-mentor-solutions/product-card/)
  <br>
