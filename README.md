@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Yura👋</h1>
+<h1 align="center">Hi there, I'm YUrij👋</h1>
 
 - 🔭 I’m currently doing assignments from the intervolga school
 - 🌱 I’m currently learning JS
