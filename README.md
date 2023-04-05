@@ -16,7 +16,7 @@ Pet project:
 <br>
 [hotel-website](https://odya01.github.io/hotel-website/)  ---  [signal-website](https://odya01.github.io/signal-website/)
 <br>
-[volgau-intervolga (ozon)](https://odya01.github.io/volgau-intervolga/)
+[volgau-intervolga (ozon)](https://odya01.github.io/volgau-intervolga/LR1)
 
 Front-mentor-solutions:
 
