@@ -8,9 +8,9 @@
 
 
 <div align = "center">
-<h2 align="center">Projects website link</h2>
+<h2 align="center">Projects link</h2>
  
-Pet project:
+Pet project websites:
  
 [cars-app](https://odya01.github.io/cars-app/)  ---  [evclid-website](https://odya01.github.io/evclid-website/)
 <br>
