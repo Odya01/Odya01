@@ -24,6 +24,8 @@ Front-mentor-solutions:
 <br>
 [3-column card component](https://odya01.github.io/front-mentor-solutions/3-column-card/)
 <div>
+[interactive-rating](https://odya01.github.io/front-mentor-solutions/interactive-rating/)
+<div>
 
 
 <br>
