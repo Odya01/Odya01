@@ -23,7 +23,7 @@ Front-mentor-solutions:
 [Product card component](https://odya01.github.io/front-mentor-solutions/product-card/)
 <br>
 [3-column card component](https://odya01.github.io/front-mentor-solutions/3-column-card/)
-<div>
+<br>
 [interactive-rating](https://odya01.github.io/front-mentor-solutions/interactive-rating/)
 <div>
 
