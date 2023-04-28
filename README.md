@@ -12,9 +12,9 @@
  
 Pet project websites:
  
-[cars-app](https://odya01.github.io/cars-app/)  ---  [evclid-website](https://odya01.github.io/evclid-website/)
-<br>
-[hotel-website](https://odya01.github.io/hotel-website/)  ---  [signal-website](https://odya01.github.io/signal-website/)
+[evclid-website](https://odya01.github.io/evclid-website/)  ---  [signal-website](https://odya01.github.io/signal-website/)
+ 
+[cars-app](https://odya01.github.io/cars-app/)  ---  [hotel-website](https://odya01.github.io/hotel-website/) 
 <br>
 [volgau-intervolga (ozon)](https://odya01.github.io/volgau-intervolga/LR1)
 
