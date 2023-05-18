@@ -16,7 +16,7 @@ Pet project websites:
  
 [cars-app](https://odya01.github.io/cars-app/)  ---  [hotel-website](https://odya01.github.io/hotel-website/) 
 <br>
-[volgau-intervolga (ozon)](https://odya01.github.io/volgau-intervolga/LR1)
+<!-- [volgau-intervolga (ozon)](https://odya01.github.io/volgau-intervolga/LR1) -->
 
 Front-mentor-solutions:
 
