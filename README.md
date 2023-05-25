@@ -12,13 +12,13 @@
  
 Pet project websites:
  
-[evclid-website адаптив доделан](https://odya01.github.io/evclid-website/) 
+[evclid-website (PC, mobile)](https://odya01.github.io/evclid-website/) 
 <br>
-[signal-website адаптив доделан](https://odya01.github.io/signal-website/)
+[signal-website (PC)](https://odya01.github.io/signal-website/)
 <br>
-[hotel-website адаптив доделан](https://odya01.github.io/hotel-website/)
+[hotel-website (PC)](https://odya01.github.io/hotel-website/)
 <br>
-[cars-app](https://odya01.github.io/cars-app/) сделано по интенсиву  
+[cars-app (интенсив)](https://odya01.github.io/cars-app/)  
 <br>
 <!-- [volgau-intervolga (ozon)](https://odya01.github.io/volgau-intervolga/LR1) -->
 
