@@ -14,13 +14,13 @@ Pet project websites:
  
 [evclid-website (PC, mobile)](vk.cc/coAyDo) 
 <br>
-[signal-website (PC)(https://vk.cc/coAyGn)
+[signal-website (PC)](https://vk.cc/coAyGn)
 <br>
 [hotel-website (PC)](https://vk.cc/coAyIX)
 <br>
 [cars-app (интенсив)](https://vk.cc/coAyN5)  
 <br>
-[volgau-intervolga (ozon intervolga lrl)(https://vk.cc/coAyKH)
+[volgau-intervolga (ozon intervolga lrl)](https://vk.cc/coAyKH)
 
 Front-mentor-solutions:
 
