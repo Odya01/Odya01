@@ -20,7 +20,7 @@ Pet project websites:
 <br>
 [cars-app (интенсив)](https://vk.cc/coAyN5)  
 <br>
-[volgau-intervolga (ozon intervolga lrl)](https://vk.cc/coAyKH)
+[volgau-intervolga (intervolga LR1)](https://vk.cc/coAyKH)
 
 Front-mentor-solutions:
 
