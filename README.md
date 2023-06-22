@@ -12,7 +12,7 @@
  
 Pet project websites:
  
-[evclid-website (PC, mobile)](vk.cc/coAyDo) 
+[evclid-website (PC, mobile)](https://vk.cc/coAyDo) 
 <br>
 [signal-website (PC)](https://vk.cc/coAyGn)
 <br>
