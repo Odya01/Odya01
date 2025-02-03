@@ -11,7 +11,9 @@
 <h2 align="center">Projects link</h2>
  
 Pet project websites:
- 
+odya01.github.io/stake/ 
+[Stake (PC, mobile)](odya01.github.io/stake/) 
+<br>
 [evclid-website (PC, mobile)](https://vk.cc/coAyDo) 
 <br>
 [alliance EN (PC, mobile)](odya01.github.io/alliance/) 
