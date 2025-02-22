@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently still learning about the frontend
 - 🌱 I’m currently learning JS
-- 🤔 I know html, css, use BEM, js, git
+- 🤔 I know html5, css3, js, git
 - 📫 How to reach me TG: @Odya00
 - 👯 I’m looking to collaborate on idk
 
