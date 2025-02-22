@@ -12,17 +12,17 @@
  
 Pet project websites:
 <br>
-[Stake (PC, mobile)](odya01.github.io/stake/) 
+[Stake (PC, mobile)](https://odya01.github.io/stake/) 
 <br>
 [evclid-website (PC, mobile)](https://vk.cc/coAyDo) 
 <br>
-[alliance EN (PC, mobile)](odya01.github.io/alliance/) 
+[alliance EN (PC, mobile)](https://odya01.github.io/alliance/) 
 <br>
 [signal-website (PC)](https://vk.cc/coAyGn)
 <br>
 [hotel-website (PC)](https://vk.cc/coAyIX)
 <br>
-[cars-sale (PC)](odya01.github.io/cars-sale/)
+[cars-sale (PC)](https://odya01.github.io/cars-sale/)
 <br>
 [cars-app (интенсив)](https://vk.cc/coAyN5)  
 <br>
