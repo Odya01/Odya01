@@ -12,7 +12,7 @@
  
 Pet project websites:
 <br>
-[Stake (PC, mobile)](https://odya01.github.io/stake/) 
+[Stake (PC, mobile)](https://vk.cc/cNnslH) 
 <br>
 [evclid-website (PC, mobile)](https://vk.cc/coAyDo) 
 <br>
