@@ -65,7 +65,7 @@ Front-mentor-solutions:
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)&nbsp;
 </details>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Odya01)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Odya01&theme=dark&hide_border=true)](https://git.io/streak-stats)
  
 </div>
 <br>
