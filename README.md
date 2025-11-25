@@ -16,6 +16,8 @@ Pet project websites:
 <br>
 [Stake (PC, mobile)](https://vk.cc/cNnslH) 
 <br>
+[App (PC, mobile)](https://vk.cc/cRFvL8)
+<br>
 [evclid-website (PC, mobile)](https://vk.cc/coAyDo) 
 <br>
 [alliance EN (PC, mobile)](https://odya01.github.io/alliance/) 
